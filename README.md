@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 
 * ⚛️ React Native
 * 🚀 Expo
-* 💻 JavaScript (ES6+)
+* 💻 TypeScript 
 * 🎣 React Hooks
 * 📐 Flexbox Layout
 * 📱 Mobile-first Design
